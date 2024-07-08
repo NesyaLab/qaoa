@@ -17,9 +17,6 @@ num_graphs = 20
 #p (int): The number of qaoa layers.
 p = 8
 
-#idx (int): An index between 0 and 15 that allows to select a graph instance from the data directory.
-idx = 0
-
 #seed (int): A seed for the pseudorandom generators (needed for reproducibility).
 seed = 121
 
