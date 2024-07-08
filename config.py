@@ -12,10 +12,10 @@ from qiskit_aer import Aer
 
 
 #num_graphs (int): The number of graph instances to be considered
-num_graphs = 16
+num_graphs = 18
 
 #p (int): The number of qaoa layers.
-p = 2
+p = 8
 
 #idx (int): An index between 0 and 15 that allows to select a graph instance from the data directory.
 idx = 0
