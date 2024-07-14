@@ -4,7 +4,7 @@ Implementation of the Quantum Approximate Optimization Algorithm (QAOA) for the 
 ## What's in here?
 Here you can find the code we use in some of our quantum optimization projects.
 * `classes` contains two classes, one to generate graph instances for the MaxCut problem and the other to implement and QAOA-type quantum circuits.
-* `data` contains some pre-generate data (graphs) and an example data generation notebook.
+* `data` contains some pre-generated data (graphs created with the `Problems` class) and an example data generation notebook.
 * `documentation` contains two minimal documentation notebooks about the classes and utilities in this repository.
 * `functions` contains utilities to work with the classes in `classes`, solve the MaxCut problem and othe related activities.
 * `tutorials` contains a minimal example notebook showing a possible pipeline where the MaxCut problem is solved in a specific instance.
